@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"BankAccount","h":"","u":""},{"l":"ClearFund","h":"","u":""},{"l":"CreateAccount","h":"","u":""},{"l":"CurrentAccount","h":"","u":""},{"l":"JuniorAccount","h":"","u":""},{"l":"Login","h":"","u":""},{"l":"Main","h":"","u":""},{"l":"SaverAccount","h":"","u":""},{"l":"UserInterface","h":"","u":""}]
